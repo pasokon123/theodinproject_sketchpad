@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+#box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;
+    height: 640px;
+}
+
+
+
+#box div {
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+
+}
